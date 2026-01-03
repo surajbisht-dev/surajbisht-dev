@@ -118,13 +118,17 @@ I believe:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajbisht-dev&show_icons=true&theme=tokyonight" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=surajbisht-dev&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajbisht-dev&theme=tokyonight" />
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=surajbisht-dev&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
