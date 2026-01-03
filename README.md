@@ -118,11 +118,13 @@ I believe:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surajbisht-dev&show_icons=true&theme=tokyonight" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajbisht-dev&theme=tokyonight" />
+
 </p>
 
 ---
@@ -141,8 +143,9 @@ I believe:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" />
 </p>
+
 
 > “Engineering is not about writing code —  
 > it’s about building systems that survive scale, traffic, and failure.”
